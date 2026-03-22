@@ -27,17 +27,17 @@ I am a builder and a researcher dedicated to creating intelligent systems that a
 
 ### 🌟 Featured Research & Projects
 
-#### 🛡️ [Adversarial Attack & Defense for Traffic Sign Recognition](https://github.com/mulukuntlarohan/Adversarial-Attack-and-Defense-for-Traffic-Sign-Recognition)
+#### 🛡️ [Adversarial Attack & Defense for Traffic Sign Recognition](https://github.com/abhishekjoshi007/Dual-FoV-Temporal-Robustness-for-Traffic-Light-and-Sign-Recognition-Hybrid-Attack-Defense)
 *Deep Learning / Security*
 - Investigated vulnerabilities in ITS by implementing **FGSM & PGD attacks**.
 - Developed a hybrid defense mechanism using temporal analysis to build resilient AI.
 
-#### 🤖 [Semantic State Management for Conversational AI](https://github.com/mulukuntlarohan/Semantic-State-Management-for-Conversational-AI)
+#### 🤖 [Semantic State Management for Conversational AI](https://github.com/mulukuntlarohan/SSM-Project)
 *Agentic AI / LLMs*
 - Built a sophisticated AI agent using **LangGraph** and **ChromaDB** for long-term memory.
 - Engineered retrieval-augmented generation (RAG) workflows for human-like context retention.
 
-#### 🥽 [EDU AR – Augmented Reality for Education](https://github.com/mulukuntlarohan)
+#### 🥽 [EDU AR – Augmented Reality for Education](https://github.com/mulukuntlarohan/Eduar)
 *XR Development*
 - Designed an AR-based mobile learning tool using **Unity and Vuforia** to visualize complex STEM concepts.
 - (Make sure this repo is public or added to your pins!)
