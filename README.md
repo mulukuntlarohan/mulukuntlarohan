@@ -56,7 +56,7 @@ I am a builder and a researcher dedicated to creating intelligent systems that a
 I am actively looking for **Research Roles, Volunteer Opportunities, and AI/ML/AR Connections.** 
 
 - 📧 **Email:** [rmulukuntla@islander.tamucc.edu](mailto:rmulukuntla@islander.tamucc.edu)
-- 🔗 **LinkedIn:** [linkedin.com/in/ROHANMULUKUNTLA](www.linkedin.com/in/mulukuntla-rohan)
+- 🔗 **LinkedIn:** [linkedin.com/in/ROHANMULUKUNTLA](linkedin.com/in/mulukuntla-rohan)
 - 🌐 **Portfolio:** [Check out my work here](https://mulukuntlarohan.github.io/Portfolio/)
 
 *"Exploring the intersection of deep learning and spatial computing to solve real-world challenges."*
